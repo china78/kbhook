@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+out/
+.env
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
+logs
+*.log
+npm-debug.log*
+.npm
